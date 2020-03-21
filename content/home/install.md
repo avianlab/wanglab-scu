@@ -1,0 +1,12 @@
+---
+bg: bg-gradient-h
+title: Install Now
+weight: 1
+---
+<!-- : .wrap -->
+
+### **Install Now**
+<!-- : .text-intro -->Run from the root of your Hugo site:
+~~~
+$ git clone https://github.com/RCJacH/hugo-webslides.git themes/hugo-webslides
+~~~
